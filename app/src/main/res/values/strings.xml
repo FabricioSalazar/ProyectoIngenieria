@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">ProyectoIngenieria</string>
+    <string-array name="types_array">
+        <item>Development</item>
+        <item>Networking</item>
+        <item>Outsourcing</item>
+    </string-array>
+</resources>
